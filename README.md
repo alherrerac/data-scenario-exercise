@@ -8,7 +8,7 @@ Thanks for taking the time to work through this technical exercise. It's meant t
 
 1. Fork this repo (or clone the gist).
 2. Add your answers into a copy of this file (`ANSWERS.md`), with your SQL and short answers inline.
-3. Push to your fork and share the link back with us — either the fork URL or a link to your branch/PR.
+3. Submit the link to your fork (or your branch/PR) using the form link provided.
 
 You're welcome to use whatever tools you'd normally reach for on the job. However, please be ready to walk through your reasoning afterward.
 
