@@ -1,4 +1,4 @@
-# Technical Exercise: Support Data Scenario
+# Technical Exercise: Support Data Scenario _ ANSWERS
 
 Thanks for taking the time to work through this technical exercise. It's meant to reflect the kind of data work that comes up as a team lead. Note: nothing here requires advanced SQL, just clear thinking through a realistic situation.
 
